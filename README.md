@@ -8,3 +8,6 @@ Here is the completed Model of the AMR
 <p align="center">
   <img src="MecanumwheelAMR.png" width="800" height="600">
 </p>
+
+All 3D-printable STL files used in this project are publicly available on Thingiverse:  
+👉 [Thingiverse Model – 3D Printable Files](https://www.thingiverse.com/thing:4023557)
